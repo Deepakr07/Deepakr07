@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak R</h1>
-<h3 align="center">3rd Year Btech Information Technology Student at School of Engineering , Cochin University Of Science And Technology</h3>
+<h3 align="center">4th Year Btech Information Technology Student at School of Engineering , Cochin University Of Science And Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakr07&label=Profile%20views&color=0e75b6&style=flat" alt="deepakr07" /> </p>
 
